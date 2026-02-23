@@ -1,6 +1,12 @@
 ---
 name: minions-ci-triggers
-description: Code/prompt change listeners, CI/CD hooks, and regression gate definitions
+id: OC-0110
+version: 1.0.0
+description: "Code/prompt change listeners, CI/CD hooks, and regression gate definitions"
+category: dev-tools
+subcategory: testing
+tags: ["minion", "dev-tools", "testing"]
+comments:
 ---
 
 # minions-ci-triggers — Agent Skills
