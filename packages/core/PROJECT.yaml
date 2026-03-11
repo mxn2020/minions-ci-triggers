@@ -1,0 +1,8 @@
+name: "@minions-ci-triggers/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-ci-triggers-workspace
+description: "Code/prompt change listeners, CI/CD hooks, and regression gate definitions"
+priority: high
+deploy_url: null
+tags: null

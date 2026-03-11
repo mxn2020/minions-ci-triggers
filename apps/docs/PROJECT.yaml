@@ -1,0 +1,8 @@
+name: "@minions-ci-triggers/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-ci-triggers-workspace
+description: "Standard compliance definition for @minions-ci-triggers/docs"
+priority: high
+deploy_url: null
+tags: null

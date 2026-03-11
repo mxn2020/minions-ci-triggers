@@ -1,0 +1,8 @@
+name: "@minions-ci-triggers/web"
+project_scope: child
+child_type: web-app
+parent_project: minions-ci-triggers-workspace
+description: "Standard compliance definition for @minions-ci-triggers/web"
+priority: high
+deploy_url: null
+tags: null

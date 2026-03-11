@@ -1,0 +1,8 @@
+name: "@minions-ci-triggers/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-ci-triggers-workspace
+description: "CLI for minions-ci-triggers — Code/prompt change listeners, CI/CD hooks, and regression gate definitions"
+priority: high
+deploy_url: null
+tags: null
