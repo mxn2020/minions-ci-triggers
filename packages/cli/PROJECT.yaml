@@ -6,3 +6,4 @@ description: "CLI for minions-ci-triggers — Code/prompt change listeners, CI/C
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

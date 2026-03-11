@@ -6,3 +6,4 @@ description: "Code/prompt change listeners, CI/CD hooks, and regression gate def
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
