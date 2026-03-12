@@ -1,0 +1,16 @@
+name: minions-ci-triggers-workspace
+project_scope: main
+project_type: monorepo
+description: Code/prompt change listeners, CI/CD hooks, and regression gate definitions
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-ci-triggers"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-ci-triggers-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
